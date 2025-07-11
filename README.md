@@ -64,18 +64,18 @@ Use this as a boilerplate to integrate into any app needing a modern checkout fo
 
 ## 🧑‍💻 Author
 Ayman Bouaziz
-1st-yearFST Alhociema AI & Software Engineering student from Rif, Morocco 🇲🇦
+1st-year FST Alhociema AI & Software Engineering student from Rif, Morocco 🇲🇦
 Dreaming, coding, and shipping like a founder.
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/ayman-bouaziz-7ab181349
 
-Instagram: 
+Instagram: https://www.instagram.com/aymancoder19
 
 Email: projects.aymanbouaziz@gmail.com
 
 LinkedIn(Biogenuisai): 
 
-Instagram(Biogenuisai): 
+Instagram(Biogenuisai): https://www.instagram.com/biogeniusai
 
 🔐 License
 MIT License
@@ -85,3 +85,12 @@ MIT License
 
 💡 “This is not just code. It’s part of a movement  to build, to learn, to inspire.”
 Ayman Bouaziz
+
+![1000010928](https://github.com/user-attachments/assets/0c0a8128-cb84-4ef9-b610-4559d840ddf8)
+![1000010929](https://github.com/user-attachments/assets/b2cff32e-c354-4b0e-b4a9-88561a599e0b)
+![1000010930](https://github.com/user-attachments/assets/9a90109a-bcec-4ac8-a261-d3f48a7c0ff7)
+![1000010931](https://github.com/user-attachments/assets/1d0c872d-6fd7-47d8-8800-aaa44334a8c2)
+![1000010927](https://github.com/user-attachments/assets/a68d5694-53e2-4bee-9464-39ec5165e6b3)
+![1000010874](https://github.com/user-attachments/assets/261404d9-b9e6-4bed-aeee-d31c45c49b83)
+![1000010875](https://github.com/user-attachments/assets/48a2d60e-57e7-423f-9a49-fe66936ab61f)
+
