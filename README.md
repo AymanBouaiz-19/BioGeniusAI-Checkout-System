@@ -85,7 +85,7 @@ _1st-year Artificial Intelligence & Software Engineering student — FST Al Hoce
 
 ## 🔐 License
 
-MIT — open-source and built to inspire the next generation of Moroccan innovators 🇲🇦.
+MIT
 
 ---
 
