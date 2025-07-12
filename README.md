@@ -1,4 +1,4 @@
-🧠 # BioGeniusAI – Next-Gen Checkout 💳
+## 🧠 BioGeniusAI – Next-Gen Checkout 💳
 
 An ultra-modern, secure, and beautifully animated payment experience — crafted for **BioGeniusAI**, the AI-powered personal branding platform revolutionizing the digital identity space.
 
